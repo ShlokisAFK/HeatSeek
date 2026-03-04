@@ -16,7 +16,7 @@ You move around a maze with WASD trying to avoid the seeker. The seeker tracks w
 ## Run it
 ```bash
 pip install pygame numpy
-python game.py
+python HeatSeek.py
 ```
 
 ## Concepts used
